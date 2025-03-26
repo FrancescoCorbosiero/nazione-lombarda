@@ -1,10 +1,14 @@
 ## LOCALE
 phpmyadmin
+
 user: root
+
 psw: ''
 
 wpadmin
+
 user: Amministratore
+
 psw: PaoloSizziNazioneLombarda1234
 
 ## TEMA
@@ -23,13 +27,13 @@ psw: PaoloSizziNazioneLombarda1234
 - Nazione Lombarda
 
 ## FEATURES
-[ x ] Sezioni articoli recenti ecc...
-[ x ] Archivi, Catgorie, Tag cloud
-[ x ] Barra di ricerca
-[ x ] Menu di navigazione
-[ x ] Menu a sinistra mobile
-[ ] GDPR
-[ ] SEO
+[x] Sezioni articoli recenti ecc...
+[x] Archivi, Catgorie, Tag cloud
+[x] Barra di ricerca
+[x] Menu di navigazione
+[x] Menu a sinistra mobile
+[] GDPR
+[] SEO
 
 ## CONFIGURAZIONI
 - Moderazione Commenti: Impostazioni > Discussione > Moderazione Commenti
