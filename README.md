@@ -1,11 +1,11 @@
 ## LOCALE
-phpmyadmin
+### Database - phpmyadmin
 
 user: root
 
 psw: ''
 
-wpadmin
+### Pannello di controllo WP - wpadmin
 
 user: Amministratore
 
