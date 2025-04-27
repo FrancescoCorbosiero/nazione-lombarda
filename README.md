@@ -8,7 +8,7 @@
 
 ### 🔑 Pannello di Controllo WordPress (wp-admin)  
 - **Utente:** `Amministratore`  
-- **Password:** `PaoloSizziNazioneLombarda1234`  
+- **Password:** ``  
 
 
 ## 🎨 Tema e Design  
